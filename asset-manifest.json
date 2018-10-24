@@ -1,13 +1,13 @@
 {
-  "main.css": "/saturnaut/saturnaut.github.io/static/css/main.abe139a8.chunk.css",
-  "main.js": "/saturnaut/saturnaut.github.io/static/js/main.7e6e5381.chunk.js",
-  "main.js.map": "/saturnaut/saturnaut.github.io/static/js/main.7e6e5381.chunk.js.map",
-  "static/js/1.fdbcf8e1.chunk.js": "/saturnaut/saturnaut.github.io/static/js/1.fdbcf8e1.chunk.js",
-  "static/js/1.fdbcf8e1.chunk.js.map": "/saturnaut/saturnaut.github.io/static/js/1.fdbcf8e1.chunk.js.map",
-  "runtime~main.js": "/saturnaut/saturnaut.github.io/static/js/runtime~main.adbb4afd.js",
-  "runtime~main.js.map": "/saturnaut/saturnaut.github.io/static/js/runtime~main.adbb4afd.js.map",
-  "static/css/main.abe139a8.chunk.css.map": "/saturnaut/saturnaut.github.io/static/css/main.abe139a8.chunk.css.map",
-  "index.html": "/saturnaut/saturnaut.github.io/index.html",
-  "precache-manifest.b632ee22828faf0134478cfd39aa361e.js": "/saturnaut/saturnaut.github.io/precache-manifest.b632ee22828faf0134478cfd39aa361e.js",
-  "service-worker.js": "/saturnaut/saturnaut.github.io/service-worker.js"
+  "main.css": "/static/css/main.abe139a8.chunk.css",
+  "main.js": "/static/js/main.7e6e5381.chunk.js",
+  "main.js.map": "/static/js/main.7e6e5381.chunk.js.map",
+  "static/js/1.fdbcf8e1.chunk.js": "/static/js/1.fdbcf8e1.chunk.js",
+  "static/js/1.fdbcf8e1.chunk.js.map": "/static/js/1.fdbcf8e1.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.abe139a8.chunk.css.map": "/static/css/main.abe139a8.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.e3bf6ea26b6ec6b26b714c7ca2294168.js": "/precache-manifest.e3bf6ea26b6ec6b26b714c7ca2294168.js",
+  "service-worker.js": "/service-worker.js"
 }
